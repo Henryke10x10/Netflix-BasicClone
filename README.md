@@ -5,3 +5,5 @@
 Algumas dos aprendizados reforçadas foram o uso das bibliotecas javascript
 * JQuery 
 * Owl carousel
+
+### [Netflix clone](https://henryke10x10.github.io/Netflix-BasicClone/)
